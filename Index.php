@@ -1,3 +1,22 @@
+<?php
+// include'/namafolder/Koneksi.php';
+include 'Koneksi.php';
+
+$query = "SELECT * FROM tb_siswa;";
+$sql = mysqli_query($conn, $query);
+$no = 0;
+
+// var_dump($sql);
+// varibel untuk data mysqli_query
+// $result = mysqli_fetch_row($sql);
+// var_dump($result);
+
+// cuma buat ngecek
+// while ($result = mysqli_fetch_assoc($sql)) {
+//     echo $result['nama_siswa']."<br>";
+// }
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -62,55 +81,34 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <th scope="row">1</th>
-                        <td>002</td>
-                        <td>Dimas Shofa Gunarso</td>
-                        <td>Laki-laki</td>
-                        <td>
-                            <img src="img/gambar1.jpg" alt="" srcset="" width="150px">
-                        </td>
-                        <td>Pemalang</td>
-                        <td>
-                            <a href="Kelola.php?ubah=1 " type="button" class="btn btn-success btn-sm ">
-                                <i class="fa fa-pencil" aria-hidden="true"></i>
-                            </a>
-                            <a href="Proses.php?hapus=1" type="button" class="btn btn-danger btn-sm ">
-                                <i class="fa fa-trash" aria-hidden="true"></i>
-                            </a>
-                        </td>
-                    </tr>
-                    <tr>
-                        <th scope="row">
-                            <center>2</center>
-                        </th>
-                        <td>002</td>
-                        <td>Ulva</td>
-                        <td>Perempuan</td>
-                        <td>
-                            <img src="img/gambar2.jpg" alt="" srcset="" width="150px">
-                        </td>
-                        <td>Pemalang</td>
-                        <td>
-                            <a href="Kelola.php?ubah=2" type="button" class="btn btn-success btn-sm ">
-                                <i class="fa fa-pencil" aria-hidden="true"></i>
-                            </a>
-                            <a href="Proses.php?hapus=2 type="button" class="btn btn-danger btn-sm ">
-                                <i class="fa fa-trash" aria-hidden="true"></i>
-                            </a>
-                        </td>
-                    </tr>
-                    <!-- <tr>
-                        <th scope="row">2</th>
-                        <td>Mark</td>
-                        <td>Mark</td>
-                        <td>Otto</td>
-                        <td></td>
-                        <td>@mdo</td>
-                        <td>
-                            <button type="button" class="btn btn-primary ">Hapus</button>
-                        </td>
-                    </tr> -->
+                    <?php
+                    while ($result = mysqli_fetch_assoc($sql)) {
+                    ?>
+                        <tr>
+                            <th scope="row">
+                                <?php echo ++$no ?>
+                            </th>
+                            <td>
+                                <?php echo $result['nisn']; ?>
+                            </td>
+                            <td><?php echo $result['nama_siswa']; ?></td>
+                            <td><?php echo $result['jenis_kelamin']; ?></td>
+                            <td>
+                                <img src="img/<?php echo $result['foto_siswa']; ?>" style="width: 150px;">
+                            </td>
+                            <td><?php echo $result['alamat']; ?></td>
+                            <td>
+                                <a href="Kelola.php?ubah=<?php echo $result['id_siswa']; ?> " type="button" class="btn btn-success btn-sm ">
+                                    <i class="fa fa-pencil" aria-hidden="true"></i>
+                                </a>
+                                <a href="Proses.php?hapus=<?php echo $result['id_siswa']; ?>" type="button" class="btn btn-danger btn-sm ">
+                                    <i class="fa fa-trash" aria-hidden="true"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    <?php
+                    }
+                    ?>
                 </tbody>
             </table>
         </div>

@@ -78,14 +78,14 @@
                     // KETIKA TERDAPAT PERUBAHAN DENGAN METOD GET DENGAN VARIABEL UBAH(INDEX.PHP)
                     // maka menggunakan fitur edit data
                     if (isset($_GET['ubah'])) {
-                        ?>
+                    ?>
                         <button type="submit" name="aksi" value="edit" class="btn btn-primary">
                             <i class="fa fa-floppy-o" aria-hidden="true"></i> Simpan Perubahan
                         </button>
                     <?php
                     } else {
                         // JIKA tdiak ada PERUBAHAN/INTERAKSI maka menggunakan fitur tambah data
-                        ?>
+                    ?>
                         <button type="submit" name="aksi" value="add" class="btn btn-primary">
                             <i class="fa fa-floppy-o" aria-hidden="true"></i> Tambahkan
                         </button>
