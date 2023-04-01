@@ -98,10 +98,10 @@ $no = 0;
                             </td>
                             <td><?php echo $result['alamat']; ?></td>
                             <td>
-                                <a href="Kelola.php?ubah=<?php echo $result['id_siswa']; ?> " type="button" class="btn btn-success btn-sm ">
+                                <a href="Kelola.php?ubah=<?php echo $no ?> " type="button" class="btn btn-success btn-sm ">
                                     <i class="fa fa-pencil" aria-hidden="true"></i>
                                 </a>
-                                <a href="Proses.php?hapus=<?php echo $result['id_siswa']; ?>" type="button" class="btn btn-danger btn-sm ">
+                                <a href="Proses.php?hapus=<?php echo $no ?>" type="button" class="btn btn-danger btn-sm ">
                                     <i class="fa fa-trash" aria-hidden="true"></i>
                                 </a>
                             </td>
