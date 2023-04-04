@@ -73,7 +73,6 @@
             </div>
             <div class="mb-3 row mt-4">
                 <div class="col">
-
                     <!--  -->
                     <?php
                     // KETIKA TERDAPAT PERUBAHAN DENGAN METOD GET DENGAN VARIABEL UBAH(INDEX.PHP)
@@ -85,7 +84,7 @@
                         </button>
                     <?php
                     } else {
-                        // JIKA tdiak ada PERUBAHAN/INTERAKSI maka menggunakan fitur tambah data
+                        // JIKA tdiak ada PERUBAHAN/INTERAKSI GET maka menggunakan fitur tambah data
                     ?>
                         <button type="submit" name="aksi" value="add" class="btn btn-primary">
                             <i class="fa fa-floppy-o" aria-hidden="true"></i> Tambahkan
@@ -93,7 +92,6 @@
                     <?php
                     }
                     ?>
-
                     <a href="Index.php" type="button" class="btn btn-danger">
                         <i class="fa fa-reply" aria-hidden="true"></i> Batal
                     </a>

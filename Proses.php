@@ -24,8 +24,8 @@ if (isset($_POST['aksi'])) {
 }
 
 if (isset($_GET['hapus'])) {
-    $id_siswa = $_GET['hapus'];
-    $query = "DELETE FROM tb_siswa WHERE id_siswa = '$id_siswa';";
+    $no = $_GET['hapus']; //$no ini ambil dari variabel tomboll hapus di index.php 
+    $query = "DELETE FROM tb_siswa WHERE id_siswa = '$no';";
     $sql = mysqli_query($conn, $query);
 
     if ($sql) {
