@@ -3,11 +3,22 @@ include 'Koneksi.php';
 
 if (isset($_POST['aksi'])) {
     if ($_POST['aksi'] == "add") {
+
+        // var_dump($_FILES);
+        // echo $_FILES['foto']['name'];
+        // die();
+
         $nisn = $_POST['nisn']; //didalam variabel post yaitu "nisn" di ambil dari input name "kelola.php"
         $nama = $_POST['nama'];
         $jenis_kelamin = $_POST['jenis_kelamin'];
-        $foto =  "gambar1.jpg";
+        $foto =  $_FILES['foto']['name'];
         $alamat = $_POST['alamat'];
+
+        $dir = "img/";
+        $tmpFile = $_FILES['foto']['tmp_name'];
+
+        move_uploaded_file($tmpFile, $dir . $foto);
+        // die();
 
         $query =  "INSERT INTO tb_siswa VALUES(null, '$nisn' , '$nama' , '$jenis_kelamin' , '$foto' , '$alamat') ";
         $sql = mysqli_query($conn, $query);
@@ -25,6 +36,16 @@ if (isset($_POST['aksi'])) {
 
 if (isset($_GET['hapus'])) {
     $no = $_GET['hapus']; //$no ini ambil dari variabel tomboll hapus di index.php 
+    $queryShow = "SELECT * FROM tb_siswa WHERE id_siswa =  '$no'"; // id_siswa ambil di id db
+
+    $sqlShow = mysqli_query($conn, $queryShow);
+    $result = mysqli_fetch_assoc($sqlShow);
+
+    // var_dump($result);
+    unlink("img/" . $result['foto_siswa']); //untuk hapus di folder
+    // echo $_FILES['foto']['name'];
+    // die();
+
     $query = "DELETE FROM tb_siswa WHERE id_siswa = '$no';";
     $sql = mysqli_query($conn, $query);
 
