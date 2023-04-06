@@ -101,7 +101,7 @@ $no = 0;
                                 <a href="Kelola.php?ubah=<?php echo $no ?> " type="button" class="btn btn-success btn-sm ">
                                     <i class="fa fa-pencil" aria-hidden="true"></i>
                                 </a>
-                                <a href="Proses.php?hapus=<?php echo $no ?>" type="button" class="btn btn-danger btn-sm " onClick="return confirm('Apakah anda yakin untuk mengjapus data tersebut???')">
+                                <a href="Proses.php?hapus=<?php echo $result['id_siswa']; ?>" type="button" class="btn btn-danger btn-sm " onClick="return confirm('Apakah anda yakin untuk mengjapus data tersebut???')">
                                     <i class="fa fa-trash" aria-hidden="true"></i>
                                 </a>
                             </td>

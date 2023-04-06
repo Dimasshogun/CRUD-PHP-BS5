@@ -35,8 +35,8 @@ if (isset($_POST['aksi'])) {
 }
 
 if (isset($_GET['hapus'])) {
-    $no = $_GET['hapus']; //$no ini ambil dari variabel tomboll hapus di index.php 
-    $queryShow = "SELECT * FROM tb_siswa WHERE id_siswa =  '$no'"; // id_siswa ambil di id db
+    $id_siswa = $_GET['hapus']; //$id_siswa ini ambil dari variabel tomboll hapus di index.php 
+    $queryShow = "SELECT * FROM tb_siswa WHERE id_siswa = '$id_siswa';"; // id_siswa ambil di id db
 
     $sqlShow = mysqli_query($conn, $queryShow);
     $result = mysqli_fetch_assoc($sqlShow);
@@ -46,7 +46,7 @@ if (isset($_GET['hapus'])) {
     // echo $_FILES['foto']['name'];
     // die();
 
-    $query = "DELETE FROM tb_siswa WHERE id_siswa = '$no';";
+    $query = "DELETE FROM tb_siswa WHERE id_siswa = '$id_siswa';";
     $sql = mysqli_query($conn, $query);
 
     if ($sql) {
