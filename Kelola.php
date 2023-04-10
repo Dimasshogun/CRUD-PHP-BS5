@@ -1,4 +1,29 @@
+<?php
+include 'Koneksi.php';
+
+$id_siswa = '';
+$nisn = '';
+$nama_siswa = '';
+$jenis_kelamin = '';
+$alamat = '';
+
+if (isset($_GET['ubah'])) {
+    $id_siswa = $_GET['ubah'];
+
+    $query = "SELECT * FROM tb_siswa  WHERE id_siswa = '$id_siswa';";
+    $sql = mysqli_query($conn, $query);
+
+    $result = mysqli_fetch_assoc($sql);
+    // var_dump($result);
+    $nisn = $result['nisn'];
+    $nama_siswa = $result['nama_siswa'];
+    $jenis_kelamin = $result['jenis_kelamin'];
+    $alamat = $result['alamat'];
+}
+?>
+
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -36,25 +61,30 @@
     <div class="container">
         <!-- PAKAI method = POST -->
         <form action="Proses.php" method="POST" id="" enctype="multipart/form-data">
+            <input type="hidden" value="<?php echo $id_siswa; ?>" name="id_siswa">
             <div class="mb-3 row">
                 <label for="nisn" class="col-sm-2 col-form-label">NISN</label>
                 <div class="col-sm-10">
-                    <input required type="text" class="form-control" name="nisn" id="nisn" placeholder="Contoh : 18090061">
+                    <input required type="text" class="form-control" name="nisn" id="nisn" placeholder="Contoh : 18090061" value="<?php echo $nisn; ?>">
                 </div>
             </div>
             <div class="mb-3 row">
                 <label for="nama" class="col-sm-2 col-form-label">Nama</label>
                 <div class="col-sm-10">
-                    <input required type="text" class="form-control" name="nama" id="nama" placeholder="Contoh : Dimas Shofa Gunarso">
+                    <input required type="text" class="form-control" name="nama_siswa" id="nama" placeholder="Contoh : Dimas Shofa Gunarso" value="<?php echo $nama_siswa; ?>">
                 </div>
             </div>
-            <div class="mb-3 row">
+            <div class=" mb-3 row">
                 <label for="jk" class="col-sm-2 col-form-label">Jenis Kelamin</label>
                 <div class="col-sm-10">
                     <select required name="jenis_kelamin" id="jk" class="form-select" aria-label="Default select example">
                         <option selected>Jenis Kelamin</option>
-                        <option value="1">Laki-laki</option>
-                        <option value="2">Perempuan</option>
+                        <option <?php if ($jenis_kelamin == 'Laki-laki') {
+                                    echo "selected";
+                                } ?> value="Laki-laki">Laki-laki</option>
+                        <option <?php if ($jenis_kelamin == 'Perempuan') {
+                                    echo "selected";
+                                } ?> value="Perempuan">Perempuan</option>
                     </select>
                 </div>
             </div>
@@ -62,13 +92,15 @@
             <div class="mb-3 row">
                 <label for="foto" class="col-sm-2 col-form-label">Foto Siswa</label>
                 <div class="col-sm-10">
-                    <input required class="form-control" type="file" name="foto" id="foto" accept="image/*">
+                    <input <?php if (!isset($_GET['ubah'])) {
+                                echo "required";
+                            } ?> class="form-control" type="file" name="foto" id="foto" accept="image/*" value="<?php echo $foto; ?>">
                 </div>
             </div>
             <div class="mb-3 row">
                 <label for="alamat" class="col-sm-2 col-form-label">Alamat</label>
                 <div class="col-sm-10">
-                    <textarea required class="form-control" name="alamat" id="alamat" rows="3" placeholder="Contoh : Jalan Gurami Widuri Pemalang"></textarea>
+                    <textarea required class="form-control" name="alamat" id="alamat" rows="3" placeholder="Contoh : Jalan Gurami Widuri Pemalang"><?php echo $alamat; ?></textarea>
                 </div>
             </div>
             <div class="mb-3 row mt-4">
