@@ -7,9 +7,7 @@ function tambah_data($data, $files)
     $jenis_kelamin = $data['jenis_kelamin'];
 
     $split = explode('.', $files['foto']['name']);
-
     $ekstensi = $split[count($split) - 1];
-
     $foto =  $nisn . '.' . $ekstensi;
 
     $alamat = $data['alamat'];

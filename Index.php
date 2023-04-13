@@ -1,20 +1,14 @@
 <?php
-// include'/namafolder/Koneksi.php';
-include 'Koneksi.php';
 
+include 'Koneksi.php';
+session_start();
+
+// $_SESSION['eksekusi'] = "helo semua";
+// echo $_SESSION['eksekusi'];
 $query = "SELECT * FROM tb_siswa;";
 $sql = mysqli_query($conn, $query);
 $no = 0;
 
-// var_dump($sql);
-// varibel untuk data mysqli_query
-// $result = mysqli_fetch_row($sql);
-// var_dump($result);
-
-// cuma buat ngecek
-// while ($result = mysqli_fetch_assoc($sql)) {
-//     echo $result['nama_siswa']."<br>";
-// }
 ?>
 
 <!DOCTYPE html>
@@ -67,6 +61,23 @@ $no = 0;
         <a href="Kelola.php" type="button" class="btn btn-primary  mb-3">
             <i class="fa fa-plus" aria-hidden="true"></i> Tambah Data
         </a>
+
+        <?php
+        if (isset($_SESSION['eksekusi'])) :
+        ?>
+            <!-- alerts Dismissing -->
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                <?php
+                echo $_SESSION['eksekusi'];
+                ?>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            <!--  -->
+        <?php
+            session_destroy();
+        endif;
+        ?>
+
         <div class="table-responsive">
             <table class="table align-middle table-bordered table table-hover text-center">
                 <thead>
