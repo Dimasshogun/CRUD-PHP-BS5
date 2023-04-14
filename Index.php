@@ -1,20 +1,14 @@
 <?php
-// include'/namafolder/Koneksi.php';
-include 'Koneksi.php';
 
+include 'Koneksi.php';
+session_start();
+
+// $_SESSION['eksekusi'] = "helo semua";
+// echo $_SESSION['eksekusi'];
 $query = "SELECT * FROM tb_siswa;";
 $sql = mysqli_query($conn, $query);
 $no = 0;
 
-// var_dump($sql);
-// varibel untuk data mysqli_query
-// $result = mysqli_fetch_row($sql);
-// var_dump($result);
-
-// cuma buat ngecek
-// while ($result = mysqli_fetch_assoc($sql)) {
-//     echo $result['nama_siswa']."<br>";
-// }
 ?>
 
 <!DOCTYPE html>
@@ -29,11 +23,22 @@ $no = 0;
     <!-- font Awesome -->
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
 
+    <!-- DataTables -->
+    <link type="text/css" rel="stylesheet" href="datatables/datatables.css">
+    <script type="text/javascript" src="datatables/datatables.js"></script>
+
+
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Belajar CRUD</title>
 </head>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#dt').DataTable();
+    });
+</script>
 
 <body>
     <nav class="navbar navbar-dark bg-dark">
@@ -54,8 +59,9 @@ $no = 0;
     </nav>
 
     <!-- Judul -->
-    <div class="container-fluid">
-        <h1>Data Siswa </h1>
+    <!-- container-fluid -->
+    <div class="container">
+        <h1 class="mt-4">Data Siswa </h1>
         <figure>
             <blockquote class="blockquote">
                 <p>Berisi data yang telah di simpan di database</p>
@@ -67,8 +73,24 @@ $no = 0;
         <a href="Kelola.php" type="button" class="btn btn-primary  mb-3">
             <i class="fa fa-plus" aria-hidden="true"></i> Tambah Data
         </a>
+        <?php
+        if (isset($_SESSION['eksekusi'])) :
+        ?>
+            <!-- alerts Dismissing -->
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                <?php
+                echo $_SESSION['eksekusi'];
+                ?>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+            <!--  -->
+        <?php
+            session_destroy();
+        endif;
+        ?>
+
         <div class="table-responsive">
-            <table class="table align-middle table-bordered table table-hover text-center">
+            <table id="dt" class="table align-middle cell-border table-hover ">
                 <thead>
                     <tr>
                         <th scope="col">No</th>
@@ -113,6 +135,7 @@ $no = 0;
             </table>
         </div>
     </div>
+    <div class="mb-5"></div>
 </body>
 
 </html>

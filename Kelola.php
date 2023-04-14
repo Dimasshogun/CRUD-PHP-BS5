@@ -1,5 +1,7 @@
 <?php
 include 'Koneksi.php';
+session_start();
+// session_destroy();
 
 $id_siswa = '';
 $nisn = '';
