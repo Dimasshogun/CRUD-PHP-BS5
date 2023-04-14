@@ -1,0 +1,826 @@
+<mxfile host="app.diagrams.net" modified="2023-04-14T09:24:54.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="qClvQJJjR_cvRAbFIGmu" version="21.1.7" type="device" pages="2">
+  <diagram id="SVJ9bR55b2n4biEqd7xe" name="Main">
+    <mxGraphModel dx="3695" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="3420" width="2390" height="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qAHFZvEOcdAxXzoiIti4-30" target="8rTQQvoxWH-EUUyxXvtp-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2110" y="1710" width="2250" height="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29cg1V9RcYKGpCWm0WkO-25" target="qAHFZvEOcdAxXzoiIti4-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="1710" width="2480" height="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jlktHyRwgSVmvT2LePX-41" target="g_w3HB0Bz8wb8LV5GEXk-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2240" y="295" width="1890" height="1085" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-32" target="29cg1V9RcYKGpCWm0WkO-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="680" width="2370" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="120" width="360" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-180" y="120" width="870" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00060D;" parent="1" source="4FRXLHJtiurV8fjUNTEO-1" target="4FRXLHJtiurV8fjUNTEO-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-1" value="&lt;a title=&quot;Struktur&quot; href=&quot;http://localhost/phpmyadmin/index.php?route=/database/structure&amp;amp;db=tb_sekolah&quot; class=&quot;hover_show_full&quot;&gt;&lt;font color=&quot;#00060d&quot;&gt;tb_sekolah&lt;/font&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00060D;" parent="1" source="4FRXLHJtiurV8fjUNTEO-4" target="4FRXLHJtiurV8fjUNTEO-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00060D;" parent="1" source="4FRXLHJtiurV8fjUNTEO-4" target="4FRXLHJtiurV8fjUNTEO-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.445;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#00060D;" parent="1" source="4FRXLHJtiurV8fjUNTEO-4" target="4FRXLHJtiurV8fjUNTEO-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="139" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00060D;" parent="1" source="4FRXLHJtiurV8fjUNTEO-4" target="4FRXLHJtiurV8fjUNTEO-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00060D;" parent="1" source="4FRXLHJtiurV8fjUNTEO-4" target="4FRXLHJtiurV8fjUNTEO-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00060D;" parent="1" source="4FRXLHJtiurV8fjUNTEO-4" target="4FRXLHJtiurV8fjUNTEO-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-4" value="&lt;a title=&quot;Struktur&quot; href=&quot;http://localhost/phpmyadmin/index.php?route=/database/structure&amp;amp;db=tb_sekolah&quot; class=&quot;hover_show_full&quot;&gt;&lt;font color=&quot;#00060d&quot;&gt;tb_s&lt;/font&gt;&lt;/a&gt;&lt;font color=&quot;#00060d&quot;&gt;iswa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-6" value="Database" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-7" value="&lt;font color=&quot;#00060d&quot;&gt;nama_siswa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-8" value="&lt;font color=&quot;#00060d&quot;&gt;&amp;nbsp;id_siswa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-10" value="&lt;font color=&quot;#00060d&quot;&gt;nisn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-11" value="&lt;font color=&quot;#00060d&quot;&gt;alamat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-12" value="&lt;font color=&quot;#00060d&quot;&gt;jenis_kelamin&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-13" value="&lt;font color=&quot;#00060d&quot;&gt;foto_siswa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="310" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-21" value="Int(12)&lt;bdo dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;&lt;br&gt;&amp;nbsp;&lt;/bdo&gt;AUTO_INCREMENT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-22" value="&lt;br&gt;                &lt;bdo dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;varchar(15)&lt;br&gt;                                    &lt;/bdo&gt;&lt;br&gt;            " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-25" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;                &lt;bdo dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;varchar(50)&lt;br&gt;                                    &lt;/bdo&gt;&lt;br&gt;            " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="60" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-26" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;                &lt;bdo dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;varchar(50)&lt;br&gt;                                    &lt;/bdo&gt;&lt;br&gt;            " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="540" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-27" value="&lt;bdo dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;&lt;br&gt;                    enum(&#39;Laki-laki&#39;, &#39;Perempuan&#39;)&lt;br&gt;                                    &lt;/bdo&gt;&lt;br&gt;            " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="280" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FRXLHJtiurV8fjUNTEO-28" value="&lt;br&gt;                &lt;bdo dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;varchar(15)&lt;br&gt;                                    &lt;/bdo&gt;&lt;br&gt;            " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="410" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="480" width="870" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-12" value="&lt;font color=&quot;#00060d&quot;&gt;nama_siswa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-13" value="&lt;font color=&quot;#00060d&quot;&gt;HTML&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-14" value="&lt;font color=&quot;#00060d&quot;&gt;nisn&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-15" value="&lt;font color=&quot;#00060d&quot;&gt;alamat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-16" value="&lt;font color=&quot;#00060d&quot;&gt;jenis_kelamin&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-17" value="&lt;font color=&quot;#00060d&quot;&gt;foto_siswa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-19" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 20px;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#141414&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;nisn&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="560" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-20" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 20px;&quot;&gt;&lt;div&gt;&lt;font style=&quot;background-color: rgb(252, 252, 252);&quot; color=&quot;#050505&quot;&gt;nama&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="70" y="560" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-21" value="jk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="290" y="560" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-22" value="foto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="420" y="560" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-23" value="alamat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00060D;" parent="1" vertex="1">
+          <mxGeometry x="540" y="560" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-24" value="ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="205" y="490" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MR3oBxHblZoCI24wFgmL-31" target="MR3oBxHblZoCI24wFgmL-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="200" />
+              <mxPoint x="935" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MR3oBxHblZoCI24wFgmL-31" target="MR3oBxHblZoCI24wFgmL-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="200" />
+              <mxPoint x="1165" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MR3oBxHblZoCI24wFgmL-31" target="MR3oBxHblZoCI24wFgmL-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="260" />
+              <mxPoint x="975" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MR3oBxHblZoCI24wFgmL-31" target="MR3oBxHblZoCI24wFgmL-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="260" />
+              <mxPoint x="1125" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-31" value="Interface PHP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="990" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-33" value="&lt;font color=&quot;#00060d&quot;&gt;&amp;nbsp;id_siswa&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-34" value="&lt;font color=&quot;#00060d&quot;&gt;JavaScrip&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1110" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-35" value="&lt;font color=&quot;#00060d&quot;&gt;CSS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MR3oBxHblZoCI24wFgmL-36" value="&lt;font color=&quot;#00060d&quot;&gt;Booststrap 5&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-1" target="g_w3HB0Bz8wb8LV5GEXk-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-15" value="menyambungkan" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-1" target="g_w3HB0Bz8wb8LV5GEXk-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-1" value="Index.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-2" target="g_w3HB0Bz8wb8LV5GEXk-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-2" target="g_w3HB0Bz8wb8LV5GEXk-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-2" target="g_w3HB0Bz8wb8LV5GEXk-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-2" value="&lt;blockquote&gt;&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15px; line-height: 20px;&quot; align=&quot;left&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#121212&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;lt;?php&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#121212&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; include&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&#39;Koneksi.php&#39;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#121212&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; $&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;query&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;SELECT&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;*&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;FROM&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt; tb_siswa;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#121212&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; $&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;sql&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt; = &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;mysqli_query&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;($&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;conn&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;, $&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;query&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;);&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#121212&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $no = 0;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#121212&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;?&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="860" width="420" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-4" value="&amp;nbsp;&lt;font style=&quot;font-size: 25px;&quot;&gt; 2. Menghubungkan dan Read tabel database&lt;/font&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="700" width="620" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-4" target="g_w3HB0Bz8wb8LV5GEXk-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-11" value="di dalam tabel" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-7" target="g_w3HB0Bz8wb8LV5GEXk-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-7" value="Tabel" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-25" value="ISI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-10" target="g_w3HB0Bz8wb8LV5GEXk-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-10" value="&lt;blockquote&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;?php&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;      &lt;/span&gt;while ($result = mysqli_fetch_assoc($sql)) {&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;?&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;(isi)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;lt;?php&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;}&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;?&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="400" y="830.01" width="416" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-12" target="g_w3HB0Bz8wb8LV5GEXk-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-12" value="Koneksi.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="1215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-13" target="g_w3HB0Bz8wb8LV5GEXk-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-13" value="&lt;blockquote&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;?php&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp; $host =&#39;localhost&#39;;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp; $user = &#39;root&#39;;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp; $pass = &#39;&#39;;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp; $db = &#39;tb_sekolah&#39;;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp; $conn = mysqli_connect($host, $user, $pass, $db);&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp; if ($conn) {&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp; }&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp; mysqli_select_db($conn, $db);&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot; dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;?&amp;gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="1055" width="510" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-18" value="ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="937.97" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-20" value="Database" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-24" target="g_w3HB0Bz8wb8LV5GEXk-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-24" target="g_w3HB0Bz8wb8LV5GEXk-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-24" value="&lt;blockquote&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 20px;&quot; align=&quot;left&quot;&gt;&lt;div&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&amp;lt;th scope=&quot;row&quot;&amp;gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&amp;nbsp;&amp;nbsp; &lt;b&gt;&amp;lt;?php echo ++$no ?&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;lt;/th&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 20px;&quot; align=&quot;left&quot;&gt;&lt;font&gt;&amp;lt;td&amp;gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp; &lt;b&gt;&amp;lt;?php echo $result[&#39;nisn&#39;]; ?&amp;gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;lt;/td&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;lt;td&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp; &lt;b&gt;&amp;lt;?php echo $result[&#39;nama_siswa&#39;]; ?&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;lt;/td&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;lt;td&amp;gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;&amp;nbsp; &lt;b&gt;&amp;lt;?php echo $result[&#39;jenis_kelamin&#39;]; ?&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&amp;lt;/td&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&amp;lt;td&amp;gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp;&amp;nbsp; &amp;lt;img src=&quot;img/&lt;b&gt;&amp;lt;?php echo $result[&#39;foto_siswa&#39;]; ?&amp;gt;&lt;/b&gt;&quot; alt=&quot;&quot; srcset=&quot;&quot; width=&quot;150px&quot;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;...&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="869" y="710" width="770" height="475.94" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-29" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;font-size: 14px;&quot;&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;...&lt;/font&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&amp;lt;td&amp;gt;&lt;/font&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;a href=&quot;Kelola.php?ubah=&lt;b&gt;&amp;lt;?php echo $result[&#39;id_siswa&#39;]; ?&amp;gt;&lt;/b&gt; &quot; type=&quot;button&quot; class=&quot;btn btn-success btn-sm &quot;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;        &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&amp;lt;i class=&quot;fa fa-pencil&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;a href=&quot;Proses.php?hapus=&lt;b&gt;&amp;lt;?php echo $result[&#39;id_siswa&#39;]; ?&amp;gt;&lt;/b&gt;&quot; type=&quot;button&quot; class=&quot;btn btn-danger btn-sm &quot;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;        &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&amp;lt;i class=&quot;fa fa-trash&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Courier New&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;lt;/td&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="741.5" y="1215" width="1027" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-33" value="&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;3. Create Delete tabel database&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-425" y="1754" width="490" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-34" target="g_w3HB0Bz8wb8LV5GEXk-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-34" target="29cg1V9RcYKGpCWm0WkO-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-34" value="Kelola.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-261.5" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-35" target="g_w3HB0Bz8wb8LV5GEXk-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-35" value="&lt;div&gt;Proses.php&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-243" y="2560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-36" target="g_w3HB0Bz8wb8LV5GEXk-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-36" value="&lt;blockquote&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&amp;lt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;label for=&quot;nisn&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;NISN&amp;lt;/label&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;        &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;input type=&quot;text&quot; class=&quot;form-control&quot; &lt;b&gt;name=&quot;nisn&quot; &lt;/b&gt;id=&quot;nisn&quot;&lt;b&gt; &lt;/b&gt;placeholder=&quot;Contoh : 18090061&quot;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;....&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1888.75" width="605" height="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-37" target="g_w3HB0Bz8wb8LV5GEXk-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-37" target="29cg1V9RcYKGpCWm0WkO-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-9" value="&lt;div&gt;yang akan mengirimkan met POST&lt;/div&gt;&lt;div&gt;yang didalamnya ada beberapa name&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="29cg1V9RcYKGpCWm0WkO-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.2627" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-37" value="Tambahkan &#39;name&#39; di setiap input label" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="1960" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-40" target="g_w3HB0Bz8wb8LV5GEXk-45" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="963" y="2290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-40" value="&lt;blockquote&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;...&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&amp;lt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;label for=&quot;jk&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;Jenis Kelamin&amp;lt;/label&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;        &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;select &lt;b&gt;name=&quot;jenis_kelamin&quot;&lt;/b&gt; id=&quot;jk&quot; class=&quot;form-select&quot; aria-label=&quot;Default select example&quot;&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;            &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;option selected&amp;gt;Jenis Kelamin&amp;lt;/option&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;            &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&amp;lt;option value=&quot;1&quot;&amp;gt;Laki-laki&amp;lt;/option&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;            &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&amp;lt;option value=&quot;2&quot;&amp;gt;Perempuan&amp;lt;/option&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;        &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&amp;lt;/select&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;    &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;...&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="73.75" y="2120" width="657.5" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-43" target="g_w3HB0Bz8wb8LV5GEXk-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-43" value="&lt;div align=&quot;left&quot;&gt;&amp;lt;?php&lt;/div&gt;&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 20px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#0d0d0d&quot;&gt;&lt;b&gt;include &#39;Koneksi.php&#39;;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="2560" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-12" value="&#xa;ambil di kelola.php&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;$&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;_POST&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&#39;nisn&#39;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;];&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-45" target="g_w3HB0Bz8wb8LV5GEXk-40" edge="1">
+          <mxGeometry x="0.0288" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="2470" />
+              <mxPoint x="403" y="2470" />
+            </Array>
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="g_w3HB0Bz8wb8LV5GEXk-45" target="29cg1V9RcYKGpCWm0WkO-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g_w3HB0Bz8wb8LV5GEXk-45" value="&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 15px; line-height: 20px;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;if (isset($_POST[&#39;aksi&#39;])) {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; if ($_POST[&#39;aksi&#39;] == &quot;add&quot;) {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;b&gt;$&lt;/b&gt;&lt;b&gt;nisn = $_POST[&#39;nisn&#39;]; //didalam variabel post yaitu &quot;nisn&quot; di ambil dari input name &quot;kelola.php&quot;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $nama = $_POST[&#39;nama&#39;];&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $jenis_kelamin = $_POST[&#39;jenis_kelamin&#39;];&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $foto = &amp;nbsp;&quot;gambar1.jpg&quot;; //gambar masih manual&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $alamat = $_POST[&#39;alamat&#39;];&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $query = &amp;nbsp;&quot;INSERT INTO tb_siswa VALUES(null, &#39;$nisn&#39; , &#39;$nama&#39; , &#39;$jenis_kelamin&#39; , &#39;$foto&#39; , &#39;$alamat&#39;) &quot;;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $sql = mysqli_query($conn, $query);&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; if ($sql) {&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; header(&quot;location:index.php&quot;);&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; //echo &quot;Berhasil tambah Data &amp;lt;a href=&#39;index.php&#39;&amp;gt;Home&amp;lt;/a&amp;gt;&quot;;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; } else {&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; echo $query;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; } elseif ($_POST[&#39;aksi&#39;] == &quot;edit&quot;) {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; echo &quot;Edit Data &amp;lt;a href=&#39;index.php&#39;&amp;gt;Home&amp;lt;/a&amp;gt;&quot;;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;...&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="160" y="2480" width="1070" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="3JL4-me0ChSLrzmevkWj-1" value="1. Struktur Kendali" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="2290" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3JL4-me0ChSLrzmevkWj-2" target="1jlktHyRwgSVmvT2LePX-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3JL4-me0ChSLrzmevkWj-2" value="&lt;div&gt;index.php&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2290" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="3JL4-me0ChSLrzmevkWj-3" target="1jlktHyRwgSVmvT2LePX-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4100" y="355" />
+              <mxPoint x="4100" y="1004" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3JL4-me0ChSLrzmevkWj-3" value="&lt;blockquote&gt;&amp;lt;a href=&quot;Kelola.php&quot; type=&quot;button&quot; class=&quot;btn btn-primary&amp;nbsp; mb-3&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-plus&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt; Tambah Data&lt;br&gt;&amp;lt;/a&amp;gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2600" y="310" width="450" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-1" target="1jlktHyRwgSVmvT2LePX-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-1" target="1jlktHyRwgSVmvT2LePX-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-1" target="1jlktHyRwgSVmvT2LePX-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-1" value="Tombol" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2460" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-4" target="3JL4-me0ChSLrzmevkWj-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2520" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-4" value="tambah" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2460" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2600" y="585" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2520" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-5" value="edit/ubah" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2460" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jlktHyRwgSVmvT2LePX-11" target="1jlktHyRwgSVmvT2LePX-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-11" value="&lt;div&gt;kelola.php&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2290" y="740" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-13" target="1jlktHyRwgSVmvT2LePX-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-13" value="Tombol FORM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2517" y="740" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-17" target="1jlktHyRwgSVmvT2LePX-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-17" target="1jlktHyRwgSVmvT2LePX-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jlktHyRwgSVmvT2LePX-17" target="1jlktHyRwgSVmvT2LePX-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-17" value="&lt;blockquote&gt;.....&lt;br&gt;&amp;lt;div class=&quot;mb-3 row mt-4&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;!--&amp;nbsp; --&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;&amp;lt;?php&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/b&gt; // KETIKA TERDAPAT PERUBAHAN DENGAN METOD GET DENGAN VARIABEL UBAH(INDEX.PHP)&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // maka menggunakan fitur edit data&lt;b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if (isset($_GET[&#39;ubah&#39;])) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ?&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;button type=&quot;submit&quot; name=&quot;aksi&quot; value=&quot;edit&quot; class=&quot;btn btn-primary&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-floppy-o&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt; Simpan Perubahan&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/button&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;?php&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // JIKA tdiak ada PERUBAHAN/INTERAKSI GET maka menggunakan fitur tambah data&lt;b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ?&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;button type=&quot;submit&quot; name=&quot;aksi&quot; value=&quot;add&quot; class=&quot;btn btn-primary&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-floppy-o&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt; Tambahkan&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/button&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;?php&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ?&amp;gt;&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;a href=&quot;Index.php&quot; type=&quot;button&quot; class=&quot;btn btn-danger&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-reply&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt; Batal&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/a&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;br&gt;.....&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2745" y="671" width="670" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-20" value="&lt;blockquote&gt;&lt;b&gt;....&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if (isset($_GET[&#39;ubah&#39;])) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ?&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/b&gt;&amp;lt;button&lt;b&gt; type=&quot;submit&quot; name=&quot;aksi&quot; value=&quot;edit&quot;&lt;/b&gt; class=&quot;btn btn-primary&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-floppy-o&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt; Simpan Perubahan&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/button&amp;gt;&lt;b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;?php&lt;br&gt;.....&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="3492" y="677" width="538" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-21" target="1jlktHyRwgSVmvT2LePX-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-21" value="&lt;blockquote&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot; align=&quot;left&quot;&gt;&amp;lt;a href=&quot;Kelola.php?&lt;b&gt;ubah&lt;/b&gt;&quot; type=&quot;button&quot; class=&quot;btn btn-success btn-sm &quot;&amp;gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot; align=&quot;left&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-pencil&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot; align=&quot;left&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2600" y="550" width="490" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-22" value="&lt;blockquote&gt;&lt;b&gt;....&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // JIKA tdiak ada PERUBAHAN/INTERAKSI maka menggunakan fitur tambah data&lt;b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ?&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&amp;nbsp; &amp;lt;button &lt;b&gt;type=&quot;submit&quot; name=&quot;aksi&quot; value=&quot;add&quot;&lt;/b&gt; class=&quot;btn btn-primary&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-floppy-o&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt; Tambahkan&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/button&amp;gt;&lt;b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;?php&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ?&amp;gt;&lt;br&gt;....&lt;br&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="3492" y="897" width="568" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-28" value="aksi" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jlktHyRwgSVmvT2LePX-26" target="1jlktHyRwgSVmvT2LePX-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1jlktHyRwgSVmvT2LePX-26" target="1jlktHyRwgSVmvT2LePX-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-26" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&amp;lt;form &lt;b&gt;action=&quot;Proses.php&quot; method=&quot;POST&quot; &lt;/b&gt;id=&quot;&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ...&lt;br&gt;&amp;lt;/form&amp;gt;&lt;br&gt;...&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="2290" y="820.01" width="383" height="99.99" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jlktHyRwgSVmvT2LePX-29" target="1jlktHyRwgSVmvT2LePX-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-29" value="&lt;div&gt;Proses.php&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2280" y="1230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-30" value="&lt;blockquote&gt;&amp;lt;?php&lt;br&gt;include &#39;Koneksi.php&#39;;&lt;br&gt;&lt;b&gt;if (isset($_POST[&#39;aksi&#39;])) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($_POST[&#39;aksi&#39;] == &quot;add&quot;) {&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;Berhasil tambah Data &amp;lt;a href=&#39;index.php&#39;&amp;gt;Home&amp;lt;/a&amp;gt;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;b&gt; } elseif ($_POST[&#39;aksi&#39;] == &quot;edit&quot;) {&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;Edit Data &amp;lt;a href=&#39;index.php&#39;&amp;gt;Home&amp;lt;/a&amp;gt;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;br&gt;&lt;b&gt;if (isset($_GET[&#39;hapus&#39;])) {&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;Hapus Data &amp;lt;a href=&#39;index.php&#39;&amp;gt;Home&amp;lt;/a&amp;gt;&quot;;&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2475" y="1145" width="505" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-37" value="&lt;blockquote&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot; align=&quot;left&quot;&gt;&amp;lt;a href=&quot;Kelola.php?&lt;b&gt;hapus&lt;/b&gt;&quot; type=&quot;button&quot; class=&quot;btn btn-danger btn-sm &quot;&amp;gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot; align=&quot;left&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-trash&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; class=&quot;selectable-text copyable-text iq0m558w&quot; align=&quot;left&quot;&gt;&lt;span class=&quot;selectable-text copyable-text&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2818" y="420" width="490" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1jlktHyRwgSVmvT2LePX-38" target="1jlktHyRwgSVmvT2LePX-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1jlktHyRwgSVmvT2LePX-38" value="Hapus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2637" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29cg1V9RcYKGpCWm0WkO-4" target="29cg1V9RcYKGpCWm0WkO-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-4" value="ada menthod POST" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="-261.5" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-5" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&amp;lt;form &lt;b&gt;action=&quot;Proses.php&quot; method=&quot;POST&quot; &lt;/b&gt;id=&quot;&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ...&lt;br&gt;&amp;lt;/form&amp;gt;&lt;br&gt;...&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="-393" y="2170" width="383" height="99.99" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-14" value="#CREATE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="997" y="2880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-15" value="&lt;blockquote&gt;...&lt;br&gt;if (isset($_GET[&#39;hapus&#39;])) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;b&gt; $id_siswa= $_GET[&#39;hapus&#39;]; //$no ini ambil dari variabel tomboll hapus di index.php &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $query = &quot;DELETE FROM tb_siswa WHERE id_siswa = &#39;$no&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($conn, $query);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($sql) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; header(&quot;location:index.php&quot;); //untuk masuk ke index&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // echo &quot;Berhasil tambah Data &amp;lt;a href=&#39;index.php&#39;&amp;gt;Home&amp;lt;/a&amp;gt;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo $query;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; // echo &quot;Hapus Data &amp;lt;a href=&#39;index.php&#39;&amp;gt;Home&amp;lt;/a&amp;gt;&quot;;&lt;/b&gt;&lt;br&gt;}&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="300" y="2980" width="650" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-17" value="#DELETE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="870" y="3170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29cg1V9RcYKGpCWm0WkO-19" target="29cg1V9RcYKGpCWm0WkO-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-19" value="Index.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="29cg1V9RcYKGpCWm0WkO-20" target="29cg1V9RcYKGpCWm0WkO-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-24" value="BUAT SEMENTARA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="29cg1V9RcYKGpCWm0WkO-23" vertex="1" connectable="0">
+          <mxGeometry x="0.1429" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-20" value="TOMBOL HAPUS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="29cg1V9RcYKGpCWm0WkO-22" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&amp;lt;a href=&quot;Proses.php?hapus=&amp;lt;?php echo &lt;font&gt;&lt;b&gt;$result[&#39;id_siswa&#39;];&lt;/b&gt;&lt;/font&gt; ?&amp;gt;&quot; type=&quot;button&quot; class=&quot;btn btn-danger btn-sm &quot; onClick=&quot;return confirm(&#39;Apakah anda yakin untuk mengjapus data tersebut???&#39;)&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-trash&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;lt;/a&amp;gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="741.5" y="2080" width="1238.5" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-4" value="&lt;blockquote&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;4. Upload File&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="2180" y="1790" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qAHFZvEOcdAxXzoiIti4-5" target="qAHFZvEOcdAxXzoiIti4-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-5" value="Kelola.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2180" y="2010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qAHFZvEOcdAxXzoiIti4-7" target="qAHFZvEOcdAxXzoiIti4-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-7" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&amp;lt;form action=&quot;Proses.php&quot; method=&quot;POST&quot; id=&quot;&quot; &lt;b&gt;enctype=&quot;multipart/form-data&quot;&lt;/b&gt;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ...&lt;br&gt;&amp;lt;/form&amp;gt;&lt;br&gt;...&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="1990" width="546" height="99.99" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qAHFZvEOcdAxXzoiIti4-9" target="qAHFZvEOcdAxXzoiIti4-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-9" value="&lt;div&gt;Proses.php&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2180" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qAHFZvEOcdAxXzoiIti4-14" target="qAHFZvEOcdAxXzoiIti4-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-14" value="&lt;div style=&quot;color: rgb(212, 212, 212); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15px; line-height: 20px;&quot;&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;if (isset($_POST[&#39;aksi&#39;])) {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; if ($_POST[&#39;aksi&#39;] == &quot;add&quot;) {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $nisn = $_POST[&#39;nisn&#39;]; //didalam variabel post yaitu &quot;nisn&quot; di ambil dari input name &quot;kelola.php&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $nama = $_POST[&#39;nama&#39;];&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $jenis_kelamin = $_POST[&#39;jenis_kelamin&#39;];&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;b&gt;$foto =&amp;nbsp; $_FILES[&#39;foto&#39;][&#39;name&#39;];&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $alamat = $_POST[&#39;alamat&#39;];&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;$dir = &quot;img/&quot;;&lt;br&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;$tmpFile = $_FILES[&#39;foto&#39;][&#39;tmp_name&#39;];&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;move_uploaded_file($tmpFile, $dir . $foto);&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; $query = &amp;nbsp;&quot;INSERT INTO tb_siswa VALUES(null, &#39;$nisn&#39; , &#39;$nama&#39; , &#39;$jenis_kelamin&#39; , &#39;$foto&#39; , &#39;$alamat&#39;) &quot;;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;...&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2365" y="2190" width="1035" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-18" value="&lt;blockquote&gt;...&lt;br&gt;if (isset($_GET[&#39;hapus&#39;])) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $id_siswa= $_GET[&#39;hapus&#39;];&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;&amp;nbsp; $queryShow = &quot;SELECT * FROM tb_siswa WHERE id_siswa =&amp;nbsp; &#39;$&lt;/b&gt;id_siswa&lt;b&gt;&#39;&quot;;&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sqlShow = mysqli_query($conn, $queryShow);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $result = mysqli_fetch_assoc($sqlShow);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; unlink(&quot;img/&quot; . $result[&#39;foto_siswa&#39;]); //untuk hapus di folder&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $query = &quot;DELETE FROM tb_siswa WHERE id_siswa = &#39;$&lt;/b&gt;id_siswa&lt;b&gt;&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($conn, $query);&lt;/b&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($sql) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; header(&quot;location:index.php&quot;); //untuk masuk ke index&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; // echo &quot;Berhasil tambah Data &amp;lt;a href=&#39;index.php&#39;&amp;gt;Home&amp;lt;/a&amp;gt;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo $query;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; // echo &quot;Hapus Data &amp;lt;a href=&#39;index.php&#39;&amp;gt;Home&amp;lt;/a&amp;gt;&quot;;&lt;br&gt;}&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2602.5" y="2580" width="667.5" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.461;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qAHFZvEOcdAxXzoiIti4-21" target="qAHFZvEOcdAxXzoiIti4-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3790" y="2030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-25" value="Setiap input tambah &lt;b&gt;required &lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qAHFZvEOcdAxXzoiIti4-24" vertex="1" connectable="0">
+          <mxGeometry x="0.4435" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-21" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;label for=&quot;foto&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;Foto Siswa&amp;lt;/label&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;input required class=&quot;form-control&quot; type=&quot;file&quot; name=&quot;foto&quot; id=&quot;foto&quot;&lt;b&gt; accept=&quot;image/*&quot;&lt;/b&gt;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2950" y="1972.5" width="670" height="134.99" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qAHFZvEOcdAxXzoiIti4-23" target="qAHFZvEOcdAxXzoiIti4-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-23" value="&lt;blockquote&gt;&amp;lt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;label for=&quot;nisn&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;NISN&amp;lt;/label&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;input &lt;b&gt;required &lt;/b&gt;type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;nisn&quot; id=&quot;nisn&quot; placeholder=&quot;Contoh : 18090061&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="2200" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qAHFZvEOcdAxXzoiIti4-26" target="qAHFZvEOcdAxXzoiIti4-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-26" value="&lt;blockquote&gt;&amp;lt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;label for=&quot;jk&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;Jenis Kelamin&amp;lt;/label&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;select &lt;b&gt;required &lt;/b&gt;name=&quot;jenis_kelamin&quot; id=&quot;jk&quot; class=&quot;form-select&quot; aria-label=&quot;Default select example&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;option selected&amp;gt;Jenis Kelamin&amp;lt;/option&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;option value=&quot;1&quot;&amp;gt;Laki-laki&amp;lt;/option&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;option value=&quot;2&quot;&amp;gt;Perempuan&amp;lt;/option&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/select&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="3440" y="2350" width="760" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qAHFZvEOcdAxXzoiIti4-28" value="&lt;blockquote&gt;&amp;lt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;label for=&quot;alamat&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;Alamat&amp;lt;/label&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;textarea &lt;b&gt;required &lt;/b&gt;class=&quot;form-control&quot; name=&quot;alamat&quot; id=&quot;alamat&quot; rows=&quot;3&quot; placeholder=&quot;Contoh : Jalan Gurami Widuri Pemalang&quot;&amp;gt;&amp;lt;/textarea&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="3360" y="2560" width="920" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8rTQQvoxWH-EUUyxXvtp-1" target="8rTQQvoxWH-EUUyxXvtp-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-1" value="Kelola.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2020" y="3700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8rTQQvoxWH-EUUyxXvtp-2" target="8rTQQvoxWH-EUUyxXvtp-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-2" value="&lt;div&gt;Proses.php&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="2208" y="4070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-6" value="&lt;div&gt;tambahkan &lt;br&gt;&lt;/div&gt;&lt;div&gt;velue php&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8rTQQvoxWH-EUUyxXvtp-3" target="8rTQQvoxWH-EUUyxXvtp-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-3" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&amp;lt;?php&lt;br&gt;include &#39;Koneksi.php&#39;;&lt;br&gt;&lt;br&gt;$id_siswa = &#39;&#39;;&lt;br&gt;$nisn = &#39;&#39;;&lt;br&gt;$nama_siswa = &#39;&#39;;&lt;br&gt;$jenis_kelamin = &#39;&#39;;&lt;br&gt;$alamat = &#39;&#39;;&lt;br&gt;&lt;br&gt;if (isset($_GET[&#39;ubah&#39;])) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $id_siswa = $_GET[&#39;ubah&#39;];&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $query = &quot;SELECT * FROM tb_siswa&amp;nbsp; WHERE id_siswa = &#39;$id_siswa&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($conn, $query);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $result = mysqli_fetch_assoc($sql);&lt;br&gt;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nisn = $result[&#39;nisn&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nama_siswa = $result[&#39;nama_siswa&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $jenis_kelamin = $result[&#39;jenis_kelamin&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $alamat = $result[&#39;alamat&#39;];&lt;br&gt;}&lt;br&gt;?&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;....&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2228" y="3530" width="532" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8rTQQvoxWH-EUUyxXvtp-5" target="8rTQQvoxWH-EUUyxXvtp-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-5" value="&lt;blockquote&gt;&lt;b&gt;&amp;lt;input type=&quot;hidden&quot; value=&quot;&amp;lt;?php echo $id_siswa; ?&amp;gt;&quot; name=&quot;id_siswa&quot;&amp;gt;&lt;/b&gt;&lt;br&gt;&amp;lt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;label for=&quot;nisn&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;NISN&amp;lt;/label&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;input required type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;nisn&quot; id=&quot;nisn&quot; placeholder=&quot;Contoh : 18090061&quot; &lt;b&gt;value=&quot;&amp;lt;?php echo $nisn; ?&amp;gt;&lt;/b&gt;&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;br&gt;...&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2860" y="3530" width="950" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8rTQQvoxWH-EUUyxXvtp-7" target="8rTQQvoxWH-EUUyxXvtp-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-7" value="&lt;blockquote&gt;&amp;lt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;label for=&quot;nama&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;Nama&amp;lt;/label&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;input required type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;nama_siswa&quot; id=&quot;nama&quot; placeholder=&quot;Contoh : Dimas Shofa Gunarso&quot; &lt;b&gt;value=&quot;&amp;lt;?php echo $nama_siswa; ?&amp;gt;&lt;/b&gt;&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2770" y="3760" width="1130" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8rTQQvoxWH-EUUyxXvtp-8" target="8rTQQvoxWH-EUUyxXvtp-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-8" value="&lt;blockquote&gt;&amp;lt;div class=&quot; mb-3 row&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;label for=&quot;jk&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;Jenis Kelamin&amp;lt;/label&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;select required name=&quot;jenis_kelamin&quot; id=&quot;jk&quot; class=&quot;form-select&quot; aria-label=&quot;Default select example&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;option selected&amp;gt;Jenis Kelamin&amp;lt;/option&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;option &lt;b&gt;&amp;lt;?php if ($jenis_kelamin == &#39;Laki-laki&#39;) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;selected&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } ?&amp;gt;&lt;/b&gt; &lt;b&gt;value=&quot;Laki-laki&quot;&lt;/b&gt;&amp;gt;Laki-laki&amp;lt;/option&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;option&lt;b&gt; &amp;lt;?php if ($jenis_kelamin == &#39;Perempuan&#39;) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;selected&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } ?&amp;gt;&lt;/b&gt; &lt;b&gt;value=&quot;Perempuan&quot;&lt;/b&gt;&amp;gt;Perempuan&amp;lt;/option&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/select&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2955" y="3982" width="760" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8rTQQvoxWH-EUUyxXvtp-14" target="8rTQQvoxWH-EUUyxXvtp-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8rTQQvoxWH-EUUyxXvtp-14" target="8rTQQvoxWH-EUUyxXvtp-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-14" value="&lt;blockquote&gt;&amp;lt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;label for=&quot;foto&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;Foto Siswa&amp;lt;/label&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;input &lt;b&gt;&amp;lt;?php if (!isset($_GET[&#39;ubah&#39;])) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;required&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } ?&amp;gt;&lt;/b&gt; class=&quot;form-control&quot; type=&quot;file&quot; name=&quot;foto&quot; id=&quot;foto&quot; accept=&quot;image/*&quot; &lt;b&gt;value=&quot;&amp;lt;?php echo $foto; ?&amp;gt;&quot;&lt;/b&gt;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="2983.76" y="4240" width="702.49" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-16" value="&lt;blockquote&gt;div class=&quot;mb-3 row&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;label for=&quot;alamat&quot; class=&quot;col-sm-2 col-form-label&quot;&amp;gt;Alamat&amp;lt;/label&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;col-sm-10&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;textarea required class=&quot;form-control&quot; name=&quot;alamat&quot; id=&quot;alamat&quot; rows=&quot;3&quot; placeholder=&quot;Contoh : Jalan Gurami Widuri Pemalang&quot;&amp;gt;&lt;b&gt;&amp;lt;?php echo $alamat; ?&amp;gt;&lt;/b&gt;&amp;lt;/textarea&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&amp;lt;/div&amp;gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2832.19" y="4420" width="1005.62" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-18" value="GET di BTN edit" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3785.63" y="4280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-20" value="&lt;blockquote&gt;&lt;b&gt;...&lt;br&gt;} elseif ($_POST[&#39;aksi&#39;] == &quot;edit&quot;) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $id_siswa = $_POST[&#39;id_siswa&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nisn = $_POST[&#39;nisn&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nama_siswa = $_POST[&#39;nama_siswa&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $jenis_kelamin = $_POST[&#39;jenis_kelamin&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $alamat = $_POST[&#39;alamat&#39;];&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $queryShow = &quot;SELECT * FROM tb_siswa WHERE id_siswa = &#39;$id_siswa&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sqlShow = mysqli_query($conn, $queryShow);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $result = mysqli_fetch_assoc($sqlShow);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($_FILES[&#39;foto&#39;][&#39;name&#39;] != &quot;&quot;) { &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $foto = $_FILES[&#39;foto&#39;][&#39;name&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; unlink(&quot;img/&quot; . $result[&#39;foto_siswa&#39;]);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; move_uploaded_file($_FILES[&#39;foto&#39;][&#39;tmp_name&#39;], &#39;img/&#39; . $_FILES[&#39;foto&#39;][&#39;name&#39;]);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;ada file&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $foto = $result[&#39;foto_siswa&#39;]; //ambil dari db&amp;nbsp; &amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $query = &quot; UPDATE tb_siswa SET nisn=&#39;$nisn&#39;, nama_siswa=&#39;$nama_siswa&#39;, jenis_kelamin =&#39;$jenis_kelamin&#39;, alamat =&#39;$alamat&#39;, foto_siswa =&#39;$foto&#39; WHERE id_siswa= &#39;$id_siswa&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($conn, $query);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; header(&quot;location:index.php&quot;);&lt;br&gt;}&lt;br&gt;...&lt;br&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1718" y="4190" width="1100" height="428" as="geometry" />
+        </mxCell>
+        <mxCell id="8rTQQvoxWH-EUUyxXvtp-24" value="&lt;blockquote&gt;&lt;br&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&amp;nbsp;5. Update / edit File&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="3460" width="380" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="w2WdJ2K1P1Tlmc2G6X1x" name="Fungsi">
+    <mxGraphModel dx="4014" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1pluK5oowv_ij8HV8z6B-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="2815" width="1240" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gA7p5OD2BIzKWu2HeeUT-1" target="3UewTroySmFBI4trn9dq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1350" y="1310" width="1990" height="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6GI-2rvYYZynPZ9NDeWR-32" target="gA7p5OD2BIzKWu2HeeUT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="1345" width="2000" height="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-1" target="6GI-2rvYYZynPZ9NDeWR-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-1" value="Index.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="1385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-2" target="6GI-2rvYYZynPZ9NDeWR-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-2" value="Kelola.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="1505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-3" target="6GI-2rvYYZynPZ9NDeWR-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-3" value="Koneksi.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="1635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-5" target="6GI-2rvYYZynPZ9NDeWR-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-5" value="Proses.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="1755" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-6" target="6GI-2rvYYZynPZ9NDeWR-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-6" value="Fungsi.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="1875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-7" value="Sama" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="1375" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-9" value="Sama" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="1625" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-11" value="Sama" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="1495" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-14" target="6GI-2rvYYZynPZ9NDeWR-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-14" value="&lt;blockquote&gt;&amp;lt;?php&lt;br&gt;&lt;b&gt;include &#39;Fungsi.php&#39;;&lt;br&gt;...&lt;br&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="1755" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-16" target="6GI-2rvYYZynPZ9NDeWR-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="1555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-16" value="&lt;blockquote&gt;...&lt;br&gt;if (isset($_POST[&#39;aksi&#39;])) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($_POST[&#39;aksi&#39;] == &quot;add&quot;) {&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;$berhasil = tambah_data($_POST, $_FILES);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($berhasil) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; header(&quot;location:index.php&quot;); //untuk masuk ke index&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo $berhasil;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; } elseif ($_POST[&#39;aksi&#39;] == &quot;edit&quot;) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;$berhasil = ubah_data($_POST, $_FILES);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($berhasil) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; header(&quot;location:index.php&quot;); //untuk masuk ke index&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo $berhasil;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;br&gt;...&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="1395" width="420" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-18" value="&lt;blockquote&gt;...&lt;br&gt;if (isset($_GET[&#39;hapus&#39;])) {&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;b&gt; $berhasil = hapus_data($_GET);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($berhasil) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; header(&quot;location:index.php&quot;); //untuk masuk ke index&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo $berhasil;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;/b&gt;&lt;br&gt;}&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="1725" width="420" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-20" target="6GI-2rvYYZynPZ9NDeWR-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-20" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&amp;lt;?php&lt;br&gt;&lt;b&gt;include &#39;Koneksi.php&#39;;&lt;/b&gt;&lt;br&gt;&lt;b&gt;function tambah_data($data, $files)&lt;br&gt;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nisn = $data[&#39;nisn&#39;]; //didalam variabel post yaitu &quot;nisn&quot; di ambil dari input name &quot;kelola.php&quot;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nama_siswa = $data[&#39;nama_siswa&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $jenis_kelamin = $data[&#39;jenis_kelamin&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $foto =&amp;nbsp; $files[&#39;foto&#39;][&#39;name&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $alamat = $data[&#39;alamat&#39;];&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $dir = &quot;img/&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $tmpFile = $files[&#39;foto&#39;][&#39;tmp_name&#39;];&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; move_uploaded_file($tmpFile, $dir . $foto);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $query =&amp;nbsp; &quot;INSERT INTO tb_siswa VALUES(null, &#39;$nisn&#39; , &#39;$nama_siswa&#39; , &#39;$jenis_kelamin&#39; , &#39;$foto&#39; , &#39;$alamat&#39;) &quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($GLOBALS[&#39;conn&#39;], $query);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; return true;&lt;br&gt;}&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="1975" width="700" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-24" target="6GI-2rvYYZynPZ9NDeWR-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-24" value="CODE DI PROSES PINDAH DI SINI " style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="1890" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6GI-2rvYYZynPZ9NDeWR-27" target="6GI-2rvYYZynPZ9NDeWR-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-27" value="&lt;blockquote&gt;&lt;b&gt;...&lt;br&gt;function ubah_data($data, $files)&lt;br&gt;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $id_siswa = $data[&#39;id_siswa&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nisn = $data[&#39;nisn&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nama_siswa = $data[&#39;nama_siswa&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $jenis_kelamin = $data[&#39;jenis_kelamin&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $alamat = $data[&#39;alamat&#39;];&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $queryShow = &quot;SELECT * FROM tb_siswa WHERE id_siswa = &#39;$id_siswa&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sqlShow = mysqli_query($GLOBALS[&#39;conn&#39;], $queryShow);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $result = mysqli_fetch_assoc($sqlShow);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($files[&#39;foto&#39;][&#39;name&#39;] != &quot;&quot;) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $foto = $files[&#39;foto&#39;][&#39;name&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; unlink(&quot;img/&quot; . $result[&#39;foto_siswa&#39;]);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; move_uploaded_file($files[&#39;foto&#39;][&#39;tmp_name&#39;], &#39;img/&#39; . $files[&#39;foto&#39;][&#39;name&#39;]);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;ada file&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $foto = $result[&#39;foto_siswa&#39;]; //ambil dari db&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;kosong&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $query = &quot; UPDATE tb_siswa SET nisn=&#39;$nisn&#39;, nama_siswa=&#39;$nama_siswa&#39;, jenis_kelamin =&#39;$jenis_kelamin&#39;, alamat =&#39;$alamat&#39;, foto_siswa =&#39;$foto&#39; WHERE id_siswa= &#39;$id_siswa&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($GLOBALS[&#39;conn&#39;], $query);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; return true;&lt;br&gt;}&lt;br&gt;...&lt;br&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry y="1925" width="1130" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="6GI-2rvYYZynPZ9NDeWR-28" value="&lt;blockquote&gt;&lt;b&gt;...&lt;br&gt;function hapus_data($data)&lt;br&gt;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $id_siswa = $data[&#39;hapus&#39;]; //$id_siswa ini ambil dari variabel tomboll hapus di index.php &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $queryShow = &quot;SELECT * FROM tb_siswa WHERE id_siswa = &#39;$id_siswa&#39;;&quot;; // id_siswa ambil di id db&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sqlShow = mysqli_query($GLOBALS[&#39;conn&#39;], $queryShow);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $result = mysqli_fetch_assoc($sqlShow);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; unlink(&quot;img/&quot; . $result[&#39;foto_siswa&#39;]); //untuk hapus di folder&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $query = &quot;DELETE FROM tb_siswa WHERE id_siswa = &#39;$id_siswa&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($GLOBALS[&#39;conn&#39;], $query);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; return true;&lt;br&gt;}&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="2425" width="660" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kFj8uMFYavxi1x3OSq35-1" value="&lt;blockquote style=&quot;font-size: 20px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;09 - Function pada Pemrograman PHP&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="530" y="1375" width="590" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3UewTroySmFBI4trn9dq-1" target="1pluK5oowv_ij8HV8z6B-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UewTroySmFBI4trn9dq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1725" y="2665" width="1240" height="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="3UewTroySmFBI4trn9dq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3UewTroySmFBI4trn9dq-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1740" y="1725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3UewTroySmFBI4trn9dq-11" value="Fungsi.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="1635" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3UewTroySmFBI4trn9dq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="3UewTroySmFBI4trn9dq-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2090" y="1890" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3UewTroySmFBI4trn9dq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3UewTroySmFBI4trn9dq-25" target="3UewTroySmFBI4trn9dq-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UewTroySmFBI4trn9dq-25" value="&lt;blockquote&gt;...&lt;br&gt;function ubah_data($data, $files)&lt;br&gt;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $id_siswa = $data[&#39;id_siswa&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nisn = $data[&#39;nisn&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nama_siswa = $data[&#39;nama_siswa&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $jenis_kelamin = $data[&#39;jenis_kelamin&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $alamat = $data[&#39;alamat&#39;];&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $queryShow = &quot;SELECT * FROM tb_siswa WHERE id_siswa = &#39;$id_siswa&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sqlShow = mysqli_query($GLOBALS[&#39;conn&#39;], $queryShow);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $result = mysqli_fetch_assoc($sqlShow);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($files[&#39;foto&#39;][&#39;name&#39;] != &quot;&quot;) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;$split = explode(&#39;.&#39;, $files[&#39;foto&#39;][&#39;name&#39;]);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $ekstensi = $split[count($split) - 1];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $foto = $result[&#39;nisn&#39;] . &#39;.&#39; . $ekstensi; &lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; unlink(&quot;img/&quot; . $result[&#39;foto_siswa&#39;]);&lt;b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; move_uploaded_file($files[&#39;foto&#39;][&#39;tmp_name&#39;], &#39;img/&#39; . $foto);&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $foto = $result[&#39;foto_siswa&#39;]; //ambil dari db&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo &quot;kosong&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br&gt; $query = &quot; UPDATE tb_siswa SET nisn=&#39;$nisn&#39;, nama_siswa=&#39;$nama_siswa&#39;, jenis_kelamin =&#39;$jenis_kelamin&#39;, alamat =&#39;$alamat&#39;, foto_siswa =&#39;$foto&#39; WHERE id_siswa= &#39;$id_siswa&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($GLOBALS[&#39;conn&#39;], $query);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; return true;&lt;br&gt;}&lt;br&gt;...&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2150" y="1670" width="970" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3UewTroySmFBI4trn9dq-26" value="&lt;blockquote&gt;...&lt;br&gt;function hapus_data($data)&lt;br&gt;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $id_siswa = $data[&#39;hapus&#39;]; //$id_siswa ini ambil dari variabel tomboll hapus di index.php &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $queryShow = &quot;SELECT * FROM tb_siswa WHERE id_siswa = &#39;$id_siswa&#39;;&quot;; // id_siswa ambil di id db&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sqlShow = mysqli_query($GLOBALS[&#39;conn&#39;], $queryShow);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $result = mysqli_fetch_assoc($sqlShow);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; unlink(&quot;img/&quot; . $result[&#39;foto_siswa&#39;]); //untuk hapus di folder&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $query = &quot;DELETE FROM tb_siswa WHERE id_siswa = &#39;$id_siswa&#39;;&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($GLOBALS[&#39;conn&#39;], $query);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; return true;&lt;br&gt;}&lt;br&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1930" y="2175" width="660" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="3UewTroySmFBI4trn9dq-27" value="&lt;blockquote style=&quot;font-size: 20px;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 27px;&quot;&gt;10 - Perbaiki eror di image&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="2850" y="1375" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3UewTroySmFBI4trn9dq-29" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&amp;lt;?php&lt;br&gt;include &#39;Koneksi.php&#39;;&lt;br&gt;function tambah_data($data, $files)&lt;br&gt;{&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nisn = $data[&#39;nisn&#39;]; //didalam variabel post yaitu &quot;nisn&quot; di ambil dari input name &quot;kelola.php&quot;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $nama_siswa = $data[&#39;nama_siswa&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $jenis_kelamin = $data[&#39;jenis_kelamin&#39;];&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;b&gt; $split = explode(&#39;.&#39;, $files[&#39;foto&#39;][&#39;name&#39;]);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $ekstensi = $split[count($split) - 1];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $foto =&amp;nbsp; $nisn . &#39;.&#39; . $ekstensi;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $alamat = $data[&#39;alamat&#39;];&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $dir = &quot;img/&quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $tmpFile = $files[&#39;foto&#39;][&#39;tmp_name&#39;];&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; move_uploaded_file($tmpFile, $dir . $foto);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $query =&amp;nbsp; &quot;INSERT INTO tb_siswa VALUES(null, &#39;$nisn&#39; , &#39;$nama_siswa&#39; , &#39;$jenis_kelamin&#39; , &#39;$foto&#39; , &#39;$alamat&#39;) &quot;;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $sql = mysqli_query($GLOBALS[&#39;conn&#39;], $query);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; return true;&lt;br&gt;}&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="1725" width="700" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gA7p5OD2BIzKWu2HeeUT-3" target="gA7p5OD2BIzKWu2HeeUT-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-3" value="Index.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="2795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gA7p5OD2BIzKWu2HeeUT-4" target="gA7p5OD2BIzKWu2HeeUT-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-4" value="Kelola.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="2915" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gA7p5OD2BIzKWu2HeeUT-5" target="gA7p5OD2BIzKWu2HeeUT-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-5" value="Proses.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="3165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gA7p5OD2BIzKWu2HeeUT-6" target="gA7p5OD2BIzKWu2HeeUT-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-6" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;&amp;lt;?php&lt;br&gt;&lt;br&gt;include &#39;Koneksi.php&#39;;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;session_start();&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1990" y="2785" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gA7p5OD2BIzKWu2HeeUT-7" target="gA7p5OD2BIzKWu2HeeUT-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2180" y="3055" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2100" y="3022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-15" value="menyambung" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gA7p5OD2BIzKWu2HeeUT-14" vertex="1" connectable="0">
+          <mxGeometry x="0.0284" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-7" value="&lt;blockquote&gt;&amp;lt;?php&lt;br&gt;include &#39;Koneksi.php&#39;;&lt;br&gt;&lt;b&gt;session_start();&lt;/b&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1990" y="2905" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-8" value="&lt;blockquote&gt;&amp;lt;?php&lt;br&gt;include &#39;Fungsi.php&#39;;&lt;br&gt;&lt;b&gt;session_start();&lt;/b&gt;&lt;br&gt;&lt;br&gt;...&lt;br&gt;if (isset($_POST[&#39;aksi&#39;])) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($_POST[&#39;aksi&#39;] == &quot;add&quot;) {&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $berhasil = tambah_data($_POST, $_FILES);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($berhasil) {&lt;br&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $_SESSION[&#39;eksekusi&#39;] = &quot;Data Berhasil Di tambahkan&quot;;&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; header(&quot;location:index.php&quot;); //untuk masuk ke index&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo $berhasil;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; } elseif ($_POST[&#39;aksi&#39;] == &quot;edit&quot;) {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $berhasil = ubah_data($_POST, $_FILES);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($berhasil) {&lt;br&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $_SESSION[&#39;eksekusi&#39;] = &quot;Data Berhasil Di perbarui&quot;;&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; header(&quot;location:index.php&quot;); //untuk masuk ke index&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo $berhasil;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;br&gt;&lt;br&gt;if (isset($_GET[&#39;hapus&#39;])) {&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $berhasil = hapus_data($_GET);&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; if ($berhasil) {&lt;br&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $_SESSION[&#39;eksekusi&#39;] = &quot;Data Berhasil Di hapus&quot;;&lt;/b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; header(&quot;location:index.php&quot;); //untuk masuk ke index&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; } else {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo $berhasil;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; }&lt;br&gt;}&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2010" y="3185" width="440" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gA7p5OD2BIzKWu2HeeUT-10" target="gA7p5OD2BIzKWu2HeeUT-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-17" value="menyambung" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gA7p5OD2BIzKWu2HeeUT-16" vertex="1" connectable="0">
+          <mxGeometry x="-0.3325" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gA7p5OD2BIzKWu2HeeUT-10" value="&lt;blockquote&gt;...&lt;br&gt;&amp;lt;a href=&quot;Kelola.php&quot; type=&quot;button&quot; class=&quot;btn btn-primary&amp;nbsp; mb-3&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;i class=&quot;fa fa-plus&quot; aria-hidden=&quot;true&quot;&amp;gt;&amp;lt;/i&amp;gt; Tambah Data&lt;br&gt;&amp;lt;/a&amp;gt;&lt;br&gt;&lt;b&gt;&amp;lt;?php&lt;br&gt;if (isset($_SESSION[&#39;eksekusi&#39;])) :&lt;br&gt;?&amp;gt;&lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;!-- alerts Dismissing --&amp;gt;&lt;b&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;div class=&quot;alert alert-success alert-dismissible fade show&quot; role=&quot;alert&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;?php&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; echo $_SESSION[&#39;eksekusi&#39;];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ?&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;button type=&quot;button&quot; class=&quot;btn-close&quot; data-bs-dismiss=&quot;alert&quot; aria-label=&quot;Close&quot;&amp;gt;&amp;lt;/button&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;/div&amp;gt;&lt;br&gt;&lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;!--&amp;nbsp; --&amp;gt;&lt;b&gt;&lt;br&gt;&amp;lt;?php&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; session_destroy();&lt;br&gt;endif;&lt;br&gt;?&amp;gt;&lt;/b&gt;&lt;br&gt;...&lt;br&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="2290" y="2785" width="620" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;11 - ALERT menggunakan SESSION di Pemrograman PHP&lt;/font&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="3645" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-4" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;12 - Live Search dengan Datatables&lt;/font&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2855" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1pluK5oowv_ij8HV8z6B-5" target="1pluK5oowv_ij8HV8z6B-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-5" value="Index.php" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="3105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1pluK5oowv_ij8HV8z6B-6" target="1pluK5oowv_ij8HV8z6B-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-6" value="&lt;blockquote&gt;&lt;div align=&quot;left&quot;&gt;...&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;!-- DataTables --&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;b&gt;&amp;lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;datatables/datatables.css&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;script type=&quot;text/javascript&quot; src=&quot;datatables/datatables.js&quot;&amp;gt;&amp;lt;/script&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;meta charset=&quot;UTF-8&quot; /&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot; /&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;title&amp;gt;Belajar CRUD&amp;lt;/title&amp;gt;&lt;br&gt;&amp;lt;/head&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;script type=&quot;text/javascript&quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; $(document).ready(function() {&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; $(&#39;#dt&#39;).DataTable();&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; });&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;lt;/script&amp;gt;&lt;/b&gt;&lt;br&gt;...&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="3060" width="520" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1pluK5oowv_ij8HV8z6B-8" value="&lt;blockquote&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;&amp;lt;div class=&quot;table-responsive&quot;&amp;gt;&lt;/div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;table &lt;b&gt;id=&quot;dt&quot;&lt;/b&gt; class=&quot;table align-middle cell-border table-hover &quot;&amp;gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;thead&amp;gt;&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;lt;tr&amp;gt;&lt;/div&gt;&lt;div&gt;...&lt;br&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="3387" width="490" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
